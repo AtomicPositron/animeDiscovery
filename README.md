@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    This application uses the <b>Kitsu.io<b> to recommend anime based on the genre
+    This application uses the <b>Kitsu.io</b> to recommend anime based on the genre
 </p>
 
 ![screenshot](public/screenshot.png)
