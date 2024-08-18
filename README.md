@@ -4,7 +4,9 @@
 <br>
 </h1>
 
-This application uses the {api} to recommend anime based on the genre
+<p align="center">
+    This application uses the {api} to recommend anime based on the genre
+</p>
 
 ![screenshot](public/screenshot.png)
 
@@ -32,6 +34,14 @@ or
 $ pnpm dev
 
 ```
+
+## Credits
+
+This are the following packages used:
+
+- [Kistu.io](https://kitsu.docs.apinary.io/#)
+- [Next.js](https://nextjs.org)
+- [Tailwind](https://tailwindcss.com)
 
 ## Support
 
