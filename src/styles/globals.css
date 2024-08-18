@@ -18,9 +18,10 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background-image: url("../../public/ian-valerio-CAFq0pv9HjY-unsplash.jpg");
-  background-size: 110%;
+  background-image: url("../../public/background.jpg");
+  background-size: 200%;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 @layer utilities {
