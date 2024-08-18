@@ -1,28 +1,34 @@
 # Welcome to MY Anime Recommender's
 
-This application uses the {api} to recommend anime based on the genre(for now)
+This application uses the {api} to recommend anime based on the genre
 
-## How to use It
+![screenshot](public/screenshot.png)
 
-1. **Clone the Repository**
+
+## Installation
+
+Make sure **NPM** and **GIT** is installed on your computer. From your command line
+
+**Clone the Repository**
 
 ```bash
 
-git clone https://github.com/MichaelIbia12/animeDiscovery.git
+$ git clone https://github.com/MichaelIbia12/animeDiscovery.git
 
 ```
-2. **Run the Project**
+
+## Usage
 
 ```bash
 
-npm run dev
+$ npm run dev
 
 or 
 
-pnpm run dev
+$ pnpm dev
 
 ```
 
-### Buy me a coffee
+## Donations
 
-[Buy me a coffee]("https://buymeacoffee.com/mars.shall")
+[Buy me a coffee](https://buymeacoffee.com/mars.shall)
